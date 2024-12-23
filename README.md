@@ -14,13 +14,18 @@ git clone https://github.com/rajeshchoudharyt/contract-dashboard.git
 cd contract-dashboard
 ```
 
-3. Then run the backend server:
+3. Install the dependencies:
+```bash
+npm i
+```
+
+4. Then run the backend server in a seperate terminal or cmd:
 
 ```bash
 node server.js
 ```
 
-4. Frontend: Run the development server:
+5. Frontend: Run the development server in another terminal or cmd:
 
 ```bash
 npm run dev
