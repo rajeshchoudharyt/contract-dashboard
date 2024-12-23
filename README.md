@@ -1,3 +1,5 @@
+A dynamic contract management dashboard with real-time updates using WebSocket.
+
 ## Getting Started
 
 1. Clone the GitHub repository:
